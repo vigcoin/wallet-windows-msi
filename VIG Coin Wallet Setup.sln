@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VIG Coin Wallet Setup", "VIG Coin Wallet Setup\VIG Coin Wallet Setup.vdproj", "{6F264F2F-81C4-446B-8D7D-53269F4B3DFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F264F2F-81C4-446B-8D7D-53269F4B3DFE}.Debug|Default.ActiveCfg = Debug
+		{6F264F2F-81C4-446B-8D7D-53269F4B3DFE}.Debug|Default.Build.0 = Debug
+		{6F264F2F-81C4-446B-8D7D-53269F4B3DFE}.Release|Default.ActiveCfg = Release
+		{6F264F2F-81C4-446B-8D7D-53269F4B3DFE}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4567B134-6C98-4953-BFBC-0F19462D839D}
+	EndGlobalSection
+EndGlobal
