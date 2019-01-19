@@ -352,7 +352,7 @@
         {
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0082BC70FA9346CE8C7F738A85E8387F"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\translations\\qt_it.qm"
+            "SourcePath" = "8:src\\translations\\qt_it.qm"
             "TargetName" = "8:qt_it.qm"
             "Tag" = "8:"
             "Folder" = "8:_3C7CEFE9F8384F23BBA6A7990FD14FA0"
@@ -372,7 +372,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_113BB719ECD441DDA270BF6FB5A49394"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\translations\\qt_uk.qm"
+            "SourcePath" = "8:src\\translations\\qt_uk.qm"
             "TargetName" = "8:qt_uk.qm"
             "Tag" = "8:"
             "Folder" = "8:_3C7CEFE9F8384F23BBA6A7990FD14FA0"
@@ -392,7 +392,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_14329895CC7D442CB510F664EE2202D9"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\cryptonote.ico"
+            "SourcePath" = "8:src\\images\\vigcoin-32.ico"
             "TargetName" = "8:cryptonote.ico"
             "Tag" = "8:"
             "Folder" = "8:_ED11D8EE018841E9A92A04B3B8C97C59"
@@ -412,7 +412,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_17BDE689DC5E462EA5DB0E2A75645DBF"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\translations\\qt_da.qm"
+            "SourcePath" = "8:src\\translations\\qt_da.qm"
             "TargetName" = "8:qt_da.qm"
             "Tag" = "8:"
             "Folder" = "8:_3C7CEFE9F8384F23BBA6A7990FD14FA0"
@@ -432,7 +432,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2111B94A6B4C45A29CEE07256C308124"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\Qt5Svg.dll"
+            "SourcePath" = "8:src\\Qt5Svg.dll"
             "TargetName" = "8:Qt5Svg.dll"
             "Tag" = "8:"
             "Folder" = "8:_ED11D8EE018841E9A92A04B3B8C97C59"
@@ -452,7 +452,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_293C06A86D7149B6B5EA4C0C61A90D25"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\imageformats\\qwebp.dll"
+            "SourcePath" = "8:src\\imageformats\\qwebp.dll"
             "TargetName" = "8:qwebp.dll"
             "Tag" = "8:"
             "Folder" = "8:_CAD00507063E432186615B974FD9A200"
@@ -472,7 +472,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_35735271439B445C81538FF93EF5A849"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\Qt5Widgets.dll"
+            "SourcePath" = "8:src\\Qt5Widgets.dll"
             "TargetName" = "8:Qt5Widgets.dll"
             "Tag" = "8:"
             "Folder" = "8:_ED11D8EE018841E9A92A04B3B8C97C59"
@@ -492,7 +492,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3E31581666C840A9989F56E31B537B3F"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\styles\\qwindowsvistastyle.dll"
+            "SourcePath" = "8:src\\styles\\qwindowsvistastyle.dll"
             "TargetName" = "8:qwindowsvistastyle.dll"
             "Tag" = "8:"
             "Folder" = "8:_A11FE6F94D7D4328A72BECD9FA2FB1E5"
@@ -512,7 +512,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_44DB1277B33B4A9294ABA6B233E90F88"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\translations\\qt_he.qm"
+            "SourcePath" = "8:src\\translations\\qt_he.qm"
             "TargetName" = "8:qt_he.qm"
             "Tag" = "8:"
             "Folder" = "8:_3C7CEFE9F8384F23BBA6A7990FD14FA0"
@@ -532,7 +532,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_45C8A9EEB62742759C28670D90E4B309"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\translations\\qt_gd.qm"
+            "SourcePath" = "8:src\\translations\\qt_gd.qm"
             "TargetName" = "8:qt_gd.qm"
             "Tag" = "8:"
             "Folder" = "8:_3C7CEFE9F8384F23BBA6A7990FD14FA0"
@@ -552,7 +552,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4AAA45F4669B4B9AB407EB4275E27080"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\imageformats\\qjpeg.dll"
+            "SourcePath" = "8:src\\imageformats\\qjpeg.dll"
             "TargetName" = "8:qjpeg.dll"
             "Tag" = "8:"
             "Folder" = "8:_CAD00507063E432186615B974FD9A200"
@@ -572,7 +572,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_54FDB118BA81469780981DEE66AB2D21"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\translations\\qt_bg.qm"
+            "SourcePath" = "8:src\\translations\\qt_bg.qm"
             "TargetName" = "8:qt_bg.qm"
             "Tag" = "8:"
             "Folder" = "8:_3C7CEFE9F8384F23BBA6A7990FD14FA0"
@@ -592,7 +592,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_57089CADE6554CC9B1D0DBD0B2A85695"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\imageformats\\qwbmp.dll"
+            "SourcePath" = "8:src\\imageformats\\qwbmp.dll"
             "TargetName" = "8:qwbmp.dll"
             "Tag" = "8:"
             "Folder" = "8:_CAD00507063E432186615B974FD9A200"
@@ -612,7 +612,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5A3E4B5F2F804A9B84CAA6746A7B1534"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\libEGL.dll"
+            "SourcePath" = "8:src\\libEGL.dll"
             "TargetName" = "8:libEGL.dll"
             "Tag" = "8:"
             "Folder" = "8:_ED11D8EE018841E9A92A04B3B8C97C59"
@@ -632,7 +632,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5A62C1D39D3D4FDB85F96C3DDB30A81B"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\imageformats\\qgif.dll"
+            "SourcePath" = "8:src\\imageformats\\qgif.dll"
             "TargetName" = "8:qgif.dll"
             "Tag" = "8:"
             "Folder" = "8:_CAD00507063E432186615B974FD9A200"
@@ -652,7 +652,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5B869A51F18F4DF5BBD20A78401D7D9B"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\platforms\\qwindows.dll"
+            "SourcePath" = "8:src\\platforms\\qwindows.dll"
             "TargetName" = "8:qwindows.dll"
             "Tag" = "8:"
             "Folder" = "8:_819234BB2BFD4CA5AE54EBDEDC3336BA"
@@ -672,7 +672,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5D5039DE23064320BE3541BE24E00909"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\vigcoin.exe"
+            "SourcePath" = "8:src\\vigcoin.exe"
             "TargetName" = "8:vigcoin.exe"
             "Tag" = "8:"
             "Folder" = "8:_ED11D8EE018841E9A92A04B3B8C97C59"
@@ -692,7 +692,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_64C5AA06F5EF4641B21B17D76EC8D3CF"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\translations\\qt_hu.qm"
+            "SourcePath" = "8:src\\translations\\qt_hu.qm"
             "TargetName" = "8:qt_hu.qm"
             "Tag" = "8:"
             "Folder" = "8:_3C7CEFE9F8384F23BBA6A7990FD14FA0"
@@ -712,7 +712,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_65299961EB1945C795E090C860256ECF"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\translations\\qt_ko.qm"
+            "SourcePath" = "8:src\\translations\\qt_ko.qm"
             "TargetName" = "8:qt_ko.qm"
             "Tag" = "8:"
             "Folder" = "8:_3C7CEFE9F8384F23BBA6A7990FD14FA0"
@@ -732,7 +732,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_698E27237D65422FB01717B7E1E6B9A4"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\imageformats\\qtiff.dll"
+            "SourcePath" = "8:src\\imageformats\\qtiff.dll"
             "TargetName" = "8:qtiff.dll"
             "Tag" = "8:"
             "Folder" = "8:_CAD00507063E432186615B974FD9A200"
@@ -752,7 +752,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_751C7EE47F3148E1A1A30F2389E7863B"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\Qt5Gui.dll"
+            "SourcePath" = "8:src\\Qt5Gui.dll"
             "TargetName" = "8:Qt5Gui.dll"
             "Tag" = "8:"
             "Folder" = "8:_ED11D8EE018841E9A92A04B3B8C97C59"
@@ -772,7 +772,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7A3D38ED9D9D4ABF8DCD05E1893DBE62"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\translations\\qt_ru.qm"
+            "SourcePath" = "8:src\\translations\\qt_ru.qm"
             "TargetName" = "8:qt_ru.qm"
             "Tag" = "8:"
             "Folder" = "8:_3C7CEFE9F8384F23BBA6A7990FD14FA0"
@@ -792,7 +792,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7AAE4D6DCFFC45D294131E486E23C17F"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\translations\\qt_fr.qm"
+            "SourcePath" = "8:src\\translations\\qt_fr.qm"
             "TargetName" = "8:qt_fr.qm"
             "Tag" = "8:"
             "Folder" = "8:_3C7CEFE9F8384F23BBA6A7990FD14FA0"
@@ -812,7 +812,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8B0D376369AE479185A9C9E3638ABC1D"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\D3Dcompiler_47.dll"
+            "SourcePath" = "8:src\\D3Dcompiler_47.dll"
             "TargetName" = "8:D3Dcompiler_47.dll"
             "Tag" = "8:"
             "Folder" = "8:_ED11D8EE018841E9A92A04B3B8C97C59"
@@ -832,7 +832,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8D16584521934312B5F21A8400E64CC1"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\iconengines\\qsvgicon.dll"
+            "SourcePath" = "8:src\\iconengines\\qsvgicon.dll"
             "TargetName" = "8:qsvgicon.dll"
             "Tag" = "8:"
             "Folder" = "8:_702D99748AC94860A38C5727289B6FEA"
@@ -852,7 +852,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_926601158CAA412B9D2FDDFBA3791A2E"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\translations\\qt_en.qm"
+            "SourcePath" = "8:src\\translations\\qt_en.qm"
             "TargetName" = "8:qt_en.qm"
             "Tag" = "8:"
             "Folder" = "8:_3C7CEFE9F8384F23BBA6A7990FD14FA0"
@@ -872,7 +872,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_92B9A00561FD4926B2738C46A7764CC8"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\imageformats\\qico.dll"
+            "SourcePath" = "8:src\\imageformats\\qico.dll"
             "TargetName" = "8:qico.dll"
             "Tag" = "8:"
             "Folder" = "8:_CAD00507063E432186615B974FD9A200"
@@ -892,7 +892,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A030AB04A5A847F7939FDDB90710C0BB"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\translations\\qt_cs.qm"
+            "SourcePath" = "8:src\\translations\\qt_cs.qm"
             "TargetName" = "8:qt_cs.qm"
             "Tag" = "8:"
             "Folder" = "8:_3C7CEFE9F8384F23BBA6A7990FD14FA0"
@@ -912,7 +912,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A05F72EC195A4F5FA300D4E0EC4E1A8E"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\imageformats\\qicns.dll"
+            "SourcePath" = "8:src\\imageformats\\qicns.dll"
             "TargetName" = "8:qicns.dll"
             "Tag" = "8:"
             "Folder" = "8:_CAD00507063E432186615B974FD9A200"
@@ -932,7 +932,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A6434C38D09A428EBC76E5AF17E8B050"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\opengl32sw.dll"
+            "SourcePath" = "8:src\\opengl32sw.dll"
             "TargetName" = "8:opengl32sw.dll"
             "Tag" = "8:"
             "Folder" = "8:_ED11D8EE018841E9A92A04B3B8C97C59"
@@ -952,7 +952,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B1108FC5F52B4CFDB8E4ADBA97EEA10F"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\imageformats\\qsvg.dll"
+            "SourcePath" = "8:src\\imageformats\\qsvg.dll"
             "TargetName" = "8:qsvg.dll"
             "Tag" = "8:"
             "Folder" = "8:_CAD00507063E432186615B974FD9A200"
@@ -972,7 +972,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B511484D5F3A4B84ABF43DB866D6C371"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\translations\\qt_ar.qm"
+            "SourcePath" = "8:src\\translations\\qt_ar.qm"
             "TargetName" = "8:qt_ar.qm"
             "Tag" = "8:"
             "Folder" = "8:_3C7CEFE9F8384F23BBA6A7990FD14FA0"
@@ -992,7 +992,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B8D5CF34B03442AAAA973AF212815DA3"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\libGLESV2.dll"
+            "SourcePath" = "8:src\\libGLESV2.dll"
             "TargetName" = "8:libGLESV2.dll"
             "Tag" = "8:"
             "Folder" = "8:_ED11D8EE018841E9A92A04B3B8C97C59"
@@ -1012,7 +1012,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_BACE985B03564156A00FE8EA9D6E7B45"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\translations\\qt_de.qm"
+            "SourcePath" = "8:src\\translations\\qt_de.qm"
             "TargetName" = "8:qt_de.qm"
             "Tag" = "8:"
             "Folder" = "8:_3C7CEFE9F8384F23BBA6A7990FD14FA0"
@@ -1032,7 +1032,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C04E1072E6D34B08A29DFF70E94D8827"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\translations\\qt_ja.qm"
+            "SourcePath" = "8:src\\translations\\qt_ja.qm"
             "TargetName" = "8:qt_ja.qm"
             "Tag" = "8:"
             "Folder" = "8:_3C7CEFE9F8384F23BBA6A7990FD14FA0"
@@ -1052,7 +1052,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C526BE268B244B789ACCB9BF73DB7E59"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\translations\\qt_pl.qm"
+            "SourcePath" = "8:src\\translations\\qt_pl.qm"
             "TargetName" = "8:qt_pl.qm"
             "Tag" = "8:"
             "Folder" = "8:_3C7CEFE9F8384F23BBA6A7990FD14FA0"
@@ -1072,7 +1072,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C5CE4F96844A44FFBF1EB647C0C75A88"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\imageformats\\qtga.dll"
+            "SourcePath" = "8:src\\imageformats\\qtga.dll"
             "TargetName" = "8:qtga.dll"
             "Tag" = "8:"
             "Folder" = "8:_CAD00507063E432186615B974FD9A200"
@@ -1092,7 +1092,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CD40D206134947C681A59C29675E52E1"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\Qt5Core.dll"
+            "SourcePath" = "8:src\\Qt5Core.dll"
             "TargetName" = "8:Qt5Core.dll"
             "Tag" = "8:"
             "Folder" = "8:_ED11D8EE018841E9A92A04B3B8C97C59"
@@ -1112,7 +1112,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CE76BFC7903949B3A9FAD404097184DE"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\translations\\qt_fi.qm"
+            "SourcePath" = "8:src\\translations\\qt_fi.qm"
             "TargetName" = "8:qt_fi.qm"
             "Tag" = "8:"
             "Folder" = "8:_3C7CEFE9F8384F23BBA6A7990FD14FA0"
@@ -1132,7 +1132,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DDE74580A5614E3BBCE4CFBF46C7D1E2"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\translations\\qt_sk.qm"
+            "SourcePath" = "8:src\\translations\\qt_sk.qm"
             "TargetName" = "8:qt_sk.qm"
             "Tag" = "8:"
             "Folder" = "8:_3C7CEFE9F8384F23BBA6A7990FD14FA0"
@@ -1152,7 +1152,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E43A814DD5144A2F945CE5D3860B69E2"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\translations\\qt_lv.qm"
+            "SourcePath" = "8:src\\translations\\qt_lv.qm"
             "TargetName" = "8:qt_lv.qm"
             "Tag" = "8:"
             "Folder" = "8:_3C7CEFE9F8384F23BBA6A7990FD14FA0"
@@ -1172,7 +1172,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E4F715156BED4AA39B973CD3C1681AD0"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\translations\\qt_ca.qm"
+            "SourcePath" = "8:src\\translations\\qt_ca.qm"
             "TargetName" = "8:qt_ca.qm"
             "Tag" = "8:"
             "Folder" = "8:_3C7CEFE9F8384F23BBA6A7990FD14FA0"
@@ -1192,7 +1192,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E977C793BACD4E62A992A9707E247860"
             {
-            "SourcePath" = "8:..\\..\\..\\build-wallet-Desktop_Qt_5_12_0_MSVC2017_64bit-Release\\release\\translations\\qt_es.qm"
+            "SourcePath" = "8:src\\translations\\qt_es.qm"
             "TargetName" = "8:qt_es.qm"
             "Tag" = "8:"
             "Folder" = "8:_3C7CEFE9F8384F23BBA6A7990FD14FA0"
